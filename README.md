@@ -25,7 +25,7 @@ Compile the code using your C++ compiler.
 
 Run the compiled executable:
 
-Usage:
+Using the app:
 
 Enter mathematical equations in the input box.
 Press "Plot" to graph the equation.
